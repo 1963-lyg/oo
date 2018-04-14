@@ -3,12 +3,10 @@
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td>
   </tr>
   <tr>
-    <td align=center>网门 網門<br/>
-      欢迎来到固定网址页面，请收藏<br/>
-      https://git.io/ogate2<br/>
-      https://github.com/ogate2/ogate<br/>
+    <td align=center>网门<br/>
+      免翻墙，一键浏览全球精粹资源<br/>
+      安全、稳定、高速、及时、便利<br/>
     </td>
-  </tr>
   <tr>
     <td align=center>请尝试不同入口，进入动态网址<br/>      
       <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=oGateg">入口</a>
@@ -27,6 +25,14 @@
   <tr>
     <td align=center>
       下载安卓版，更快更方便<br/><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk">https://git.io/ogatea2</a><br/>
+    </td>
+  </tr>
+  </tr>
+    <tr>
+    <td align=center>
+      本页面是固定网址页面，请收藏<br/>
+      https://git.io/ogate2<br/>
+      https://github.com/ogate2/ogate<br/>
     </td>
   </tr>
   <tr>
