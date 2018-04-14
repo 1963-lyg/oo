@@ -5,18 +5,18 @@
   <tr>
     <td align=center>网门<br/>
       免翻墙，一键浏览全球精粹资源<br/>
-      安全、稳定、高速、及时、便利<br/>
+      安全，稳定，高速，及时，便利<br/>
     </td>
   <tr>
     <td align=center>请尝试不同入口，进入动态网址<br/>      
-      <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=oGateg">入口</a>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=oGateg">入口</a>
-      <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=oGateg">入口</a><br/>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=oGateg">入口</a>
       <a href="https://s3.amazonaws.com/ogate/show.htm?from=oGateg">入口</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=oGateg">入口</a><br/>
+      <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=oGateg">入口</a>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=oGateg">入口</a><br/>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=oGateg">入口</a>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/show.htm?from=oGateg">入口</a>
+      <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=oGateg">入口</a><br/>
+      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=oGateg">入口</a>
+      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=oGateg">入口</a>
       <a href="https://s3-ap-northeast-1.amazonaws.com/ogatet/show.htm?from=oGateg">入口</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td align=center>
-      下载安卓版，更快更方便<br/><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk">https://git.io/ogatea2</a><br/>
+      下载网门安卓版，更快，更方便<br/><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk">https://git.io/ogatea2</a><br/>
     </td>
   </tr>
   </tr>
