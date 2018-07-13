@@ -12,7 +12,7 @@
     <td align=center>请尝试不同入口，进入动态网址<br/>      
       <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=ogit">入口</a>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=ogit">入口</a>
-      <a href="https://s3.amazonaws.com/ogate/show.htm?from=ogit">入口</a><br/>
+      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/show.htm?from=ogit">入口</a><br/>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/show.htm?from=ogit">入口</a>
       <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=ogit">入口</a>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=ogit">入口</a><br/>
