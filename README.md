@@ -10,7 +10,7 @@
     </td>
   <tr>
     <td align=center>请尝试不同入口，进入动态网址<br/>
-      <a href="https://cors.io/?https://s3.us-east-2.amazonaws.com/ogateo/show.htm">入口</a><br/>
+      <a href="https://cors.io/?https://s3.us-east-2.amazonaws.com/ogateo/show.htm#ogHome">入口</a><br/>
       <a href="https://s3.us-east-2.amazonaws.com/ogateo/show.htm">入口</a>
       <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm">入口</a>
       <a href="https://s3.ap-southeast-2.amazonaws.com/ogatey/show.htm">入口</a><br/>
@@ -34,7 +34,6 @@
     <td align=center>
       本页面是固定网址页面，请收藏<br/>
       https://git.io/ogate2<br/>
-      https://github.com/ogate2/ogate<br/>
     </td>
   </tr>
   <tr>
