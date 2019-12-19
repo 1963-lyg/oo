@@ -15,6 +15,9 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><a href="https://cdn.statically.io/gh/otiny/up/master/show002.htm">网页版入口</a></td>
+  </tr>
+  <tr>
     <td align=center>
       下载网门安卓版，更快，更方便<br/><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk">https://git.io/ogatea2</a><br/>
     </td>
